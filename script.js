@@ -1,3 +1,3 @@
-function downloadFile(filename) {
-    window.location.href = filename;
+function redirectTo(url) {
+    window.location.href = url;
 }
